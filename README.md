@@ -1,7 +1,3 @@
-<H3>Name: SANTHOSH L</H3>
-<H3>Register no.: 212222100046</H3>
-<H3>Date:</H3>
-<H3>Experiment No. 2 </H3>
 # EX-02 Implementation of Perceptron for Binary Classification
 ### Aim:
 To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
